@@ -1,0 +1,25 @@
+.paginator {
+	background-color: $platinum;
+}
+.paginator .pagination {
+	margin: 0;
+}
+
+.pagination li a{
+color:$erieblack;
+&:hover{
+	color:$ruddypink;
+}
+}
+
+.pagination__page-item__page-link_background{
+	background-color:$nickel !important;
+	color:$white !important;
+}
+.card-text{
+	font-size: $small;
+	line-height: 3;
+}
+
+
+

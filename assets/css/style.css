@@ -9965,6 +9965,9 @@ a:hover {
 .navigation .active a {
   color: #d76c69;
 }
+.navigation__link {
+  margin: 0 6px;
+}
 
 .navbar-brand img {
   width: 78px;

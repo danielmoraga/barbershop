@@ -1,0 +1,22 @@
+.author {
+	border-top: 1px solid $lightgray;
+
+	& .card {
+		border: none;
+	}
+
+	&__card__img {
+		width: 150px;
+	}
+
+	& .card-title {
+		font-family: $playfair;
+		font-style: italic;
+	}
+
+}
+
+
+.border-circle{
+	border: 1px solid $nickel !important;
+}

@@ -1,0 +1,17 @@
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+@import 'vendors/boostrap4.6/bootstrap.scss';
+
+@import 'base/reset';
+@import 'base/base';
+@import 'base/typography';
+
+@import 'components/buttons';
+
+@import 'layout/navigation';
+@import 'layout/header';
+@import 'layout/article';
+@import 'layout/author';
+@import 'layout/paginator';
+@import 'layout/footer';

@@ -1,0 +1,12 @@
+.rounded-corners {
+	border-radius: $rounded;
+}
+.border-rounded-left{
+	border-radius: $roundleft !important;
+}
+.border-rounded-right{
+	border-radius: $roundright !important;
+}
+.buttons__btn:hover{
+background-color: $nickel;
+}

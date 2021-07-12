@@ -9929,16 +9929,16 @@ h3 {
     border-color: #dee2e6;
   }
 }
-body {
-  font-family: "Roboto", sans-serif;
-}
-
 a {
   color: #d76c69;
 }
 a:hover {
   color: #121619;
   text-decoration: none;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
 }
 
 .rounded-corners {

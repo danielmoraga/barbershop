@@ -9943,6 +9943,7 @@ a:hover {
 
 .rounded-corners {
   border-radius: 30px;
+  margin: 30px 0;
 }
 
 .border-rounded-left {
